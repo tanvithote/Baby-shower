@@ -1,0 +1,99 @@
+.baby {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.moon {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.slide-image {
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  display: block;
+}
+.first {
+  padding-top: 50px;
+}
+.second {
+  margin-top: 50px;
+  background: #f8e4cf;
+}
+.home-text {
+  font-weight: 100;
+  font-size: 50px;
+}
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navbar {
+  background: #f8e4cf !important;
+}
+.navtext {
+  color: black;
+  font-size: 20px;
+  font-weight: 100;
+}
+.navbar-brand {
+  color: black;
+  font-size: 20px;
+  font-weight: 500;
+}
+.slider {
+  margin-top: 50px;
+  background: url(images/background.png);
+  background-size: cover;
+}
+.video {
+  margin-top: 50px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  /* background: black; */
+}
+
+.testimonial4_slide {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 70%;
+  margin: auto;
+  padding: 20px;
+  position: relative;
+  text-align: center;
+}
+.testimonial4_slide img {
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 136px;
+  height: 136px;
+  margin: auto;
+  display: block;
+  color: #f2f2f2;
+  font-size: 18px;
+  line-height: 46px;
+  text-align: center;
+  position: relative;
+  border-radius: 50%;
+  box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
+  -moz-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
+  -o-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
+  -webkit-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
+}
+.testimonial4_slide p {
+  color: black;
+  font-size: 20px;
+  line-height: 1.4;
+  margin: 40px 0 20px 0;
+}
+.testimonial4_slide h4 {
+  color: black;
+  font-size: 22px;
+}
